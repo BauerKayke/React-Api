@@ -35,12 +35,15 @@ Você precisará ter instalado em sua máquina:
 1. Navegue até o diretório do backend:
    ```bash
    cd backend
+   ```
 2. Instale as dependências:
   ```bash
     npm install
+       ```
 3. Inicie o servidor (Localmente):
   ```bash
   npm run dev
+     ```
 4. O servidor será iniciado em http://localhost:3001.
 
 ### Frontend
@@ -48,12 +51,15 @@ Você precisará ter instalado em sua máquina:
 1. Navegue até o diretório do frontend:
    ```bash
     cd frontend
+       ```
 2. Instale as dependências:
    ```bash
     npm install
+       ```
 3. Inicie a aplicação React:
     ```bash
   npm start
+     ```
 4. A aplicação será iniciada em http://localhost:3000.
 
 ## Configuração
